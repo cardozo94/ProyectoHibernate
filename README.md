@@ -1,4 +1,4 @@
-# Spring Con Annotations
+# Proyecto Hibernate
 
 This is a project that I create following the tutorial on youtube [Curso Spring][def]. In this project I see how connect to MySQL Database with hibernate and CRUD operations on it.
 It has some dependecies:
