@@ -1,6 +1,6 @@
 # Proyecto Hibernate
 
-This is a project that I create following the tutorial on youtube [Curso Spring][def]. In this project I see how connect to MySQL Database with hibernate and CRUD operations on it.
+This is a project that I create following the tutorial on youtube [Curso Spring][def]. In this project I see how connect to MySQL Database with hibernate and CRUD operations on it. It's running over Java 11.0.15.1.
 It has some dependecies:
 
 - jakarta.transaction-api-2.0.1.jar
